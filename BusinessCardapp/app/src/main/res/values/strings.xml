@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Card app</string>
+    <string name="full_name">Jennifer Doe</string>
+    <string name="role">Android Developer Extraordinaire</string>
+    <string name="phone_number">+1 (123) 456 789</string>
+    <string name="social_handle">@AndroidDev</string>
+    <string name="email_address">jen.doe@android.com</string>
+    <string name="linkedin_handle">linkedin.com/in/jennifer-doe</string>
+    <string name="instagram_handle">\@jen.doe.dev</string>
+    <string name="twitter_handle">\@JenDoeDev</string>
+    <string name="reddit_handle">u/jendoedev</string>
+</resources>
