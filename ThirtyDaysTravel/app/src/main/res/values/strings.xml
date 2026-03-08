@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">30 Days of Travel</string>
+    <string name="day">Day %1$d</string>
+    <string name="show_more">Show More</string>
+    <string name="show_less">Show Less</string>
+
+    <!-- Destination Titles -->
+    <string name="dest_title_1">Manali, India</string>
+    <string name="dest_title_2">Goa, India</string>
+    <string name="dest_title_3">Jaipur, India</string>
+    <string name="dest_title_4">Santorini, Greece</string>
+    <string name="dest_title_5">Bali, Indonesia</string>
+    <string name="dest_title_6">Paris, France</string>
+    <string name="dest_title_7">Kyoto, Japan</string>
+    <string name="dest_title_8">New York, USA</string>
+    <string name="dest_title_9">Maldives</string>
+    <string name="dest_title_10">Cape Town, South Africa</string>
+    <string name="dest_title_11">Machu Picchu, Peru</string>
+    <string name="dest_title_12">Dubai, UAE</string>
+    <string name="dest_title_13">Rome, Italy</string>
+    <string name="dest_title_14">Queenstown, New Zealand</string>
+    <string name="dest_title_15">Barcelona, Spain</string>
+    <string name="dest_title_16">Petra, Jordan</string>
+    <string name="dest_title_17">Amalfi Coast, Italy</string>
+    <string name="dest_title_18">Kenya Safari, Kenya</string>
+    <string name="dest_title_19">Banff, Canada</string>
+    <string name="dest_title_20">Istanbul, Turkey</string>
+    <string name="dest_title_21">Phuket, Thailand</string>
+    <string name="dest_title_22">Prague, Czech Republic</string>
+    <string name="dest_title_23">Sydney, Australia</string>
+    <string name="dest_title_24">Havana, Cuba</string>
+    <string name="dest_title_25">Mount Cook, New Zealand</string>
+    <string name="dest_title_26">Marrakech, Morocco</string>
+    <string name="dest_title_27">Patagonia, Chile/Argentina</string>
+    <string name="dest_title_28">Hoi An, Vietnam</string>
+    <string name="dest_title_29">Reykjavik, Iceland</string>
+    <string name="dest_title_30">Varanasi, India</string>
+
+    <!-- Destination Descriptions -->
+    <string name="dest_desc_1">A high-altitude Himalayan resort town, known for its cool climate and snow-capped mountains.</string>
+    <string name="dest_desc_2">Famous for its beaches, ranging from popular stretches at Baga and Palolem to those in laid-back fishing villages.</string>
+    <string name="dest_desc_3">The \"Pink City\" is known for its stunning palaces, forts, and vibrant markets.</string>
+    <string name="dest_desc_4">Stunning volcanic island known for its whitewashed houses and blue-domed churches overlooking the Aegean Sea.</string>
+    <string name="dest_desc_5">Tropical paradise known for its forested volcanic mountains, iconic rice paddies, beaches, and coral reefs.</string>
+    <string name="dest_desc_6">The City of Light, home to the Eiffel Tower, Louvre Museum, and world-class cuisine.</string>
+    <string name="dest_desc_7">The cultural heart of Japan, famous for its numerous classical Buddhist temples, gardens, and imperial palaces.</string>
+    <string name="dest_desc_8">A global hub of finance, culture, and entertainment, featuring the iconic Statue of Liberty and Central Park.</string>
+    <string name="dest_desc_9">A tropical nation in the Indian Ocean, known for its beaches, blue lagoons, and extensive reefs.</string>
+    <string name="dest_desc_10">A port city on South Africa’s southwest coast, on a peninsula beneath the imposing Table Mountain.</string>
+    <string name="dest_desc_11">Incan citadel set high in the Andes Mountains in Peru, above the Urubamba River valley.</string>
+    <string name="dest_desc_12">Known for luxury shopping, ultramodern architecture, and a lively nightlife scene.</string>
+    <string name="dest_desc_13">Italy’s capital, a sprawling, cosmopolitan city with nearly 3,000 years of globally influential art, architecture, and culture.</string>
+    <string name="dest_desc_14">Adventure capital of the world, set against the dramatic Southern Alps on New Zealand\'s South Island.</string>
+    <string name="dest_desc_15">The cosmopolitan capital of Spain’s Catalonia region, known for its art and architecture.</string>
+    <string name="dest_desc_16">Famous archaeological site in Jordan\'s southwestern desert, featuring tombs and temples carved into pink sandstone cliffs.</string>
+    <string name="dest_desc_17">A 50-kilometer stretch of coastline along the southern edge of Italy’s Sorrentine Peninsula.</string>
+    <string name="dest_desc_18">Witness the Great Migration and the Big Five in the legendary Maasai Mara National Reserve.</string>
+    <string name="dest_desc_19">Renowned for its turquoise glacial lakes, majestic mountains, and abundant wildlife in the heart of the Rockies.</string>
+    <string name="dest_desc_20">A major city in Turkey that straddles Europe and Asia across the Bosphorus Strait.</string>
+    <string name="dest_desc_21">Thailand\'s largest island, featuring some of the country\'s most popular beaches and luxury resorts.</string>
+    <string name="dest_desc_22">Capital city of the Czech Republic, bisected by the Vltava River, known for its Old Town Square and Baroque buildings.</string>
+    <string name="dest_desc_23">Known for its Sydney Opera House, with a distinctive sail-like design, and the massive Darling Harbour.</string>
+    <string name="dest_desc_24">Cuba’s capital, known for Old Havana’s Spanish colonial architecture and 16th-century landmarks.</string>
+    <string name="dest_desc_25">The highest mountain in New Zealand, offering spectacular alpine scenery and stargazing.</string>
+    <string name="dest_desc_26">A former imperial city in western Morocco, home to mosques, palaces, and gardens.</string>
+    <string name="dest_desc_27">A region encompassing the vast southernmost tip of South America, shared by Argentina and Chile.</string>
+    <string name="dest_desc_28">A city on Vietnam’s central coast known for its well-preserved Ancient Town, cut through with canals.</string>
+    <string name="dest_desc_29">The capital and largest city of Iceland, known for its dramatic landscape with volcanoes, geysers, and hot springs.</string>
+    <string name="dest_desc_30">A city on the banks of the Ganges in Uttar Pradesh, India, regarded as the spiritual capital of India.</string>
+
+    <!-- <string name="dest_desc_1">A high-altitude Himalayan resort town, known for its cool climate and
+        snow-capped mountains.
+    </string> -->
+
+    <!-- <string name="dest_desc_30">A city on the banks of the Ganges, regarded as the spiritual capital
+        of India.
+    </string> -->
+</resources>
